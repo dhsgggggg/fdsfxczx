@@ -29,8 +29,8 @@ bot = borg = client
 
 ArabicHack = 5159123009
 
-api_id = ("19662621")
-api_hash = ("24c2270e7f1336eb59ca6c48e42ec6ca")
+api_id = ("27198560")
+api_hash = ("5f300eb6636fd8c30cd7da8cbf2c23ef")
 
 Bot_Username =(mybot , None) or "tmux_sythonbot"
 
